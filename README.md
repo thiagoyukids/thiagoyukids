@@ -65,16 +65,6 @@ Sou programador nas Linguagens: <p align = 'center'>
 <img src=	"https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   	
 </p>
-
-<p align='center'>
-  <a href="#"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=praticasageis&theme=dark'></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=praticasagis&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-
 Atualmente aprendendo: 
 
 - Otimização
