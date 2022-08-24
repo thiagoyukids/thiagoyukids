@@ -10,7 +10,7 @@ Olá eu sou Thiago Yuki, bem vindx!
   Sou um Cientista de Dados, Agilista e Pesquisador Químico.
   </p>
   
- <p align='center'>Criador e mantedor do Blog <a href="https://praticasgeis.com.br/">PraticasAgeis.com.br</a>
+ <p align='center'>Criador e mantedor do Blog <a href="https://praticasgeis.com.br/">www.praticasAgeis.com.br</a>
 </p>
   
 <p align='center'>
