@@ -67,11 +67,11 @@ Sou programador nas Linguagens: <p align = 'center'>
 </p>
 
 <p align='center'>
-  <a href="#"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=datachemistry&theme=dark'></a>
+  <a href="#"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=praticasageis&theme=dark'></a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=datachemistry&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=praticasagis&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 
