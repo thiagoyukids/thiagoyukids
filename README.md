@@ -1,4 +1,4 @@
-[![capa]([https://github.com/datachemistry/datachemistry/blob/main/Thiago%20Yuki.png](https://github.com/thiagoyukids/thiagoyukids/blob/main/Thiago%20Yuki.png))](https://github.com/thiagoyukids?tab=repositories)
+[![capa]([https://github.com/datachemistry/datachemistry/blob/main/Thiago%20Yuki.png)
 ---
 
 <h1 align='center'>
